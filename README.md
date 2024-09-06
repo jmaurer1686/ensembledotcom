@@ -1,8 +1,8 @@
 # Lunch & Learn Edge Delivery Services Demo
 
 ## Environments
-- Preview: https://main--ensembledotcom--jmaurer1686.hlx.page/
-- Live: https://main--ensembledotcom--jmaurer1686.hlx.live/
+- Preview: https://main--ensembledotcom--jmaurer1686.aem.page/
+- Live: https://main--ensembledotcom--jmaurer1686.aem.live/
 
 ## Installation
 
