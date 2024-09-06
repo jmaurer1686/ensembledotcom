@@ -1,6 +1,4 @@
 mountpoints:
-<<<<<<< HEAD
+
   /: https://adobe.sharepoint.com/:f:/r/sites/AEMNAMExpertSCs/Shared%20Documents/Web%20Foundation%20Training/jmaurer/ensemble?csf=1&web=1&e=QzIWaA
-=======
-  /: https://adobe.sharepoint.com/:f:/r/sites/AEMNAMExpertSCs/Shared%20Documents/Web%20Foundation%20Training/jmaurer/ensemble/drafts?csf=1&web=1&e=VpYDOZ
->>>>>>> b12993d (updates)
+
